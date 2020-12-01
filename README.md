@@ -22,7 +22,7 @@
 
 <p align="center">
 
-<a href="https://twitter.com/mugilancodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aravinthraj" height="20" width="20" /></a>
+<a href="https://twitter.com/aravinth902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aravinthraj" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/aravinthraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aravinthraj98" height="20" width="20" /></a>
 
 <a href="https://www.facebook.com/aravinth.raj.7777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ARAVINTHRAJ" height="20" width="20" /></a>
