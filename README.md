@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARAVINTH RAJ</h1>
-<h3 align="center">MERN STACK DEVELOPER</h3>
+<h3 align="center">FULL STACK DEVELOPER</h3>
 
 - 📫 How to reach me **aravinth799902@gmail.com**
 
