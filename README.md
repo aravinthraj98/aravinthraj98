@@ -21,11 +21,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravinthraj98&layout=compact"></p>
 
 <p align="center">
-
-<a href="https://twitter.com/aravinth902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aravinthraj" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/aravinthraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aravinthraj98" height="20" width="20" /></a>
-
-<a href="https://www.facebook.com/aravinth.raj.7777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ARAVINTHRAJ" height="20" width="20" /></a>
+ -🔭 I’m currently working on real time application using react<br/>
+  - 🌱 I’m currently learning sequelizer in node<br/>
+  - 👯 I’m looking to collaborate on react projects
 
 </p>
 
@@ -34,12 +32,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on real time application using react
+- 🌱 I’m currently learning sequelizer in node
+- 👯 I’m looking to collaborate on react projects
+- 🤔 I’m looking for help with redux
+- 💬 Ask me about error in react
+- 📫 How to reach me: aravinth799902@gmail.com
+- ⚡ Fun fact: 
 -->
