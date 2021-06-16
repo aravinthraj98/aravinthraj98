@@ -11,7 +11,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=aravinthraj98&theme=onedark"></p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/aravinthraj98/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinthraj98&theme=dark"/>
   </a>
 </p>
